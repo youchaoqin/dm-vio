@@ -1,0 +1,10 @@
+.vscode/
+.idea/
+*/.idea/
+
+*.so
+*.pcd
+*.pyc
+*.bag
+
+x86/packages/
