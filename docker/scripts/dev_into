@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+
+xhost +
+docker exec -it -u root dm_vio_dev /bin/bash
